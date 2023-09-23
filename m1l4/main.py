@@ -76,4 +76,4 @@ async def fox(ctx):
 async def heh(ctx, count_heh = 5):
     await ctx.send("heh" * count_heh)
 
-bot.run("MTE0NzgyOTQ3NDAxMjk1ODc1MA.G-AKAL.A88sr67tkV6owagYfjGX2HJ_nWTZb97ShRzJvM")
+bot.run("this token")
