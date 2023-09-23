@@ -41,7 +41,7 @@ async def _bot(ctx):
 
 @bot.command()
 async def hello(ctx):
-    await ctx.send(f'Привет! Я бот {bot.user}!')   
+    await ctx.send(f'Hi, im bot {bot.user}!')   
 
 @bot.command()
 async def mem(ctx):
