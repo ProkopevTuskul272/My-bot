@@ -1,0 +1,10 @@
+Hi! It's documentation!
+  If write '$add 1 2' (for example), there will be 3.
+  If write '$choice paper rock' (for example), there will be random answer.
+  If wrire '$repeat 10' (for example), will be repeated 10 times 'repeating...'.
+  If wrire '$cool', will be 'No, None is not cool'.
+  If write '$hello', will be 'Hi, im bot Chat_bot 1#5950!'.
+  If write '$meme', will be random meme from data.
+  If write '$duck', will be random meme with ducks.
+  If write '$fox', will be random meme with fox.
+  If write '$heh 10' (for example), there will be 'hehhehhehhehhehhehhehhehhehheh'
